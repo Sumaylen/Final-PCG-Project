@@ -1,6 +1,6 @@
 # Final PCG Project Submission
 
-This project was using **Unity 6000.3.1f1**.
+This project was made using **Unity 6000.3.1f1**.
 
 ## Important
 Please **only run the game from Scene 0(MainMenu)**.
