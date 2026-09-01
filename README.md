@@ -2,7 +2,7 @@
 
 This project was made using **Unity 6000.3.1f1**.
 
-[View Design Document](Design_Document.pdf)
+[View Project Document](Project_Document.pdf)
 
 ## Important
 Please **only run the game from Scene 0(MainMenu)**.
